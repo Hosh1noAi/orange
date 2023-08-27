@@ -2,7 +2,8 @@
 unwhole program, only some materials for the visual expression
 caution,no code here!caution,no code here!
 西二在线美术组合作论时制作的ui设计，图标设计等
-制作的界面是以安卓手机为背景安排使用（640*360），底部留白56px，两侧留白16px，顶部留白24px
+制作的界面是以安卓手机为背景安排使用（640*360），底部留白56px，两侧留白16px，顶部留白24px，
+源文件的字体和板块安排是当时根据电脑上的呈现效果搭配的，还有很大的优化空间
 大小可根据使用场景灵活修改，ui灵感主要来源淘宝和闲鱼
 图标和海报是自创
 主题色为橘色和白色，也可根据不同主题更改替换
